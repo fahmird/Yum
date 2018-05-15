@@ -1,0 +1,29 @@
+h4 {
+  margin-top: 25px;
+}
+.row {
+  margin-bottom: 0px;
+  height: auto;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+[class*="col-md-4"] {
+  height: auto;
+}
+
+[class*="col-md-6"] {
+  height: auto;
+  opacity: 0.2;
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
